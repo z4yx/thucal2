@@ -29,6 +29,8 @@ module.exports = (grunt) ->
 // @include       *.cic.tsinghua.edu.cn/syxk.vsyxkKcapb.do*
 // @include       *.cic.tsinghua.edu.cn/xkBks.vxkBksXkbBs.do*
 // @include       *.cic.tsinghua.edu.cn/xkYjs.vxkYjsXkbBs.do*
+// @grant         GM_xmlhttpRequest
+// @connect       tsinghua.edu.cn
 // ==/UserScript==
 
 //#include
